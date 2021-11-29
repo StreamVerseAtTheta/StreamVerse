@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/black-dashboard-react/static/css/main.be6a3639.chunk.css",
+    "main.js": "/black-dashboard-react/static/js/main.afffa558.chunk.js",
+    "main.js.map": "/black-dashboard-react/static/js/main.afffa558.chunk.js.map",
+    "runtime-main.js": "/black-dashboard-react/static/js/runtime-main.b08c3578.js",
+    "runtime-main.js.map": "/black-dashboard-react/static/js/runtime-main.b08c3578.js.map",
+    "static/css/2.ea89a154.chunk.css": "/black-dashboard-react/static/css/2.ea89a154.chunk.css",
+    "static/js/2.c462f7a1.chunk.js": "/black-dashboard-react/static/js/2.c462f7a1.chunk.js",
+    "static/js/2.c462f7a1.chunk.js.map": "/black-dashboard-react/static/js/2.c462f7a1.chunk.js.map",
+    "index.html": "/black-dashboard-react/index.html",
+    "static/css/2.ea89a154.chunk.css.map": "/black-dashboard-react/static/css/2.ea89a154.chunk.css.map",
+    "static/css/main.be6a3639.chunk.css.map": "/black-dashboard-react/static/css/main.be6a3639.chunk.css.map",
+    "static/js/2.c462f7a1.chunk.js.LICENSE.txt": "/black-dashboard-react/static/js/2.c462f7a1.chunk.js.LICENSE.txt",
+    "static/js/main.afffa558.chunk.js.LICENSE.txt": "/black-dashboard-react/static/js/main.afffa558.chunk.js.LICENSE.txt",
+    "static/media/emilyz.jpg": "/black-dashboard-react/static/media/emilyz.105ff23d.jpg",
+    "static/media/all.min.css": "/black-dashboard-react/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/nucleo-icons.css": "/black-dashboard-react/static/media/nucleo.bd5cce8b.eot",
+    "static/media/react-logo.561f1671.png": "/black-dashboard-react/static/media/react-logo.561f1671.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b08c3578.js",
+    "static/css/2.ea89a154.chunk.css",
+    "static/js/2.c462f7a1.chunk.js",
+    "static/css/main.be6a3639.chunk.css",
+    "static/js/main.afffa558.chunk.js"
+  ]
+}
